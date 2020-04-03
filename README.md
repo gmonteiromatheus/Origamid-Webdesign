@@ -1,2 +1,2 @@
-# origamid webdesign
- Meu Repositório do curso Origamid Webdesign
+# Origamid Webdesign
+ Meu primeiro repositório do curso de Webdesign.
